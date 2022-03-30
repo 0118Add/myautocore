@@ -6,7 +6,7 @@
 
 ## 功能说明：
 
-###  来源LEAN大的  autocore 脚本。
+###  自动挂载自动分区和格式化功 来源LEAN大的  autocore 脚本。
 
 ###  本着人人为我，我为人人的原则，增加温度，类型，网卡MAC，时间等更多详细内容显示。不敢独享，特分享出来，为OPENWRT添砖加瓦。
 
@@ -15,7 +15,7 @@
 ## 编译使用方法 [![](https://img.shields.io/badge/-编译使用方法-F5F5F5.svg)](#编译使用方法-)
 
 
-### 将myautocore添加至 LEDE/OpenWRT 源码的方法。
+### 将automount添加至 LEDE/OpenWRT 源码的方法。
 
 ### 下载源码方法：
 
