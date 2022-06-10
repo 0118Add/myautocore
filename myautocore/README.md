@@ -1,5 +1,3 @@
-[![若部分图片无法正常显示，请挂上机场浏览或点这里到末尾看修复教程](https://visitor-badge.glitch.me/badge?page_id=sirpdboy-visitor-badge)](#解决-github-网页上图片显示失败的问题) [![](https://img.shields.io/badge/TG群-点击加入-FFFFFF.svg)](https://t.me/joinchat/AAAAAEpRF88NfOK5vBXGBQ)
-
 [myautocore 加强版预览信息OPENWRT专用](https://github.com/sirpdboy/myautocore)
 ======================
 请 **认真阅读完毕** 本页面，本页面包含注意事项和如何使用。
